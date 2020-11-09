@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainTimesToSQL", "TrainTimesToSQL\TrainTimesToSQL.csproj", "{CEAB63D8-B857-4E77-BCCD-98DDF3EE50F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainTimesToSQL", "TrainTimesToSQL\TrainTimesToSQL.csproj", "{7F1958A9-5E09-4981-AC62-894F5D464BFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CEAB63D8-B857-4E77-BCCD-98DDF3EE50F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CEAB63D8-B857-4E77-BCCD-98DDF3EE50F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CEAB63D8-B857-4E77-BCCD-98DDF3EE50F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CEAB63D8-B857-4E77-BCCD-98DDF3EE50F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1958A9-5E09-4981-AC62-894F5D464BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1958A9-5E09-4981-AC62-894F5D464BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1958A9-5E09-4981-AC62-894F5D464BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1958A9-5E09-4981-AC62-894F5D464BFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8C4BF11B-2876-4E40-8F0C-119754DC38E7}
+		SolutionGuid = {A7CF8B0C-67BE-4071-AA7A-67FB1C51C128}
 	EndGlobalSection
 EndGlobal
